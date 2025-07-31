@@ -15,7 +15,7 @@ Duochat is a real-time two-person chat application designed with simplicity and 
 
 - One-on-one messaging
 - Real-time updates
-- Audio/Video call support (coming soon)
+- Audio/Video call support
 
 ## 📌 Current Status
 
